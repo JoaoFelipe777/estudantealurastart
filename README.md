@@ -1,2 +1,10 @@
-# Joao Felipe
-Eu souo João Felipe, estudante da escola P.E.I Luiz Rivelli e estou fazendo o curso da alura start!
+# Boas vindas ao meu perfil 💙💙
+Meu nome é João Felipe
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+00001105557856sp@al.educacao.sp.gov.br
+
+@JoaoFelipe777
